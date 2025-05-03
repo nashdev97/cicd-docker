@@ -1,0 +1,13 @@
+{
+    "name": "ci-cd-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for CI/CD demo",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "node test.js"
+    },
+    "author": "Naushad Alam",
+    "license": "ISC"
+  }
+  
